@@ -12,5 +12,7 @@ services:
       - /app/node_modules
       - .:/app
     environment:
+      - SNIPCART_API=${SNIPCART_API}
+      - DATOCMS_API=${DATOCMS_API}
       - NODE_ENV=development
       - GATSBY_WEBPACK_PUBLICPATH=/
