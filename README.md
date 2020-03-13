@@ -1,6 +1,6 @@
-#An example project for AU
+# An example project for AU
 
-##Install
+## Install
 
 1. open your teminal of choice and run `git clone git@github.com:hyliancoder/kwikcart.git`
 2. move into the directory via `cd kwikcart`
