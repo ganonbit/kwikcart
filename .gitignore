@@ -1,6 +1,6 @@
 .cache/
 public/
 node_modules/
-.env.*
+.env
 .DS_Store
 yarn.lock
